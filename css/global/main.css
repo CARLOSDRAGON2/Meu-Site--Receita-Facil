@@ -1,0 +1,28 @@
+.main-bg {
+  width: 100%;
+}
+
+.main-conteudo {
+  color: black;
+  max-width: 1200px;
+  margin:20px auto 0 auto;
+  align-items:center;
+  padding: 30px;
+}
+
+.main-img {
+  margin: 20px auto 0 auto;
+  align-items:center;
+  padding: 20px;
+}
+
+.main-texto {
+  color: #720c06;
+  margin: 20px auto 0 auto;
+  align-items:center;
+  padding: 5px;
+}
+
+.main-texto a{
+  color: red;
+}
